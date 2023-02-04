@@ -1,0 +1,15 @@
+basePath: /api/v1/
+host: localhost:8080
+info:
+  contact:
+    name: Eddie Lin
+  description: This is a sample server implement with Go.
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  title: Go Backend
+  version: "0.1"
+paths: {}
+schemes:
+- http,https
+swagger: "2.0"

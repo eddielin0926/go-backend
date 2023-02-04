@@ -1,0 +1,21 @@
+{
+    "schemes": [
+        "http,https"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a sample server implement with Go.",
+        "title": "Go Backend",
+        "contact": {
+            "name": "Eddie Lin"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        },
+        "version": "0.1"
+    },
+    "host": "localhost:8080",
+    "basePath": "/api/v1/",
+    "paths": {}
+}
